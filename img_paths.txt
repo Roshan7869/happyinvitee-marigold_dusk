@@ -1,0 +1,16 @@
+images/arch_frame.webp
+images/couple_cut.webp
+images/events/baraat.webp
+images/events/ganesh-puja.webp
+images/events/haldi.webp
+images/events/mehendi.webp
+images/events/reception.webp
+images/events/sangeet.webp
+images/events/vivah.webp
+images/gallery/01-placeholder.jpg
+images/gallery/02-placeholder.jpg
+images/gallery/03-placeholder.jpg
+images/ganesha_gold.png
+images/ghat_scene.webp
+images/jharokha_balcony.webp
+images/rangoli_frame.webp
